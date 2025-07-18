@@ -142,19 +142,3 @@ The workflow will:
 ```
 
 ---
-
-## 📌 License
-
-MIT License. Use freely and contribute improvements.
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! Feel free to suggest features or report issues in the Issues tab.
-
----
-
-## 📧 Contact
-
-For questions or suggestions, please open an issue or reach out via GitHub.
